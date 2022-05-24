@@ -2,5 +2,12 @@
 
 # in-web-client generation:
 https://www.geeksforgeeks.org/create-a-qr-code-generator-app-using-reactjs/
+https://www.tutorialspoint.com/creating-a-qr-code-of-a-link-in-react-js
+https://medium.com/geekculture/few-ways-to-generate-qr-code-using-javascript-54b6b5220c4f
+#
+https://www.npmjs.com/package/react-qr-code
+"A component for React. This library works with React and React Native (using React Native SVG)."
+#
+
 
 #-eof
