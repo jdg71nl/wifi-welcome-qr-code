@@ -1,0 +1,6 @@
+#= project-info.txt
+
+# in-web-client generation:
+https://www.geeksforgeeks.org/create-a-qr-code-generator-app-using-reactjs/
+
+#-eof
